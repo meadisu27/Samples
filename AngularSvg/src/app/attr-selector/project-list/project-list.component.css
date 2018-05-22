@@ -1,9 +1,0 @@
-/* Read more about ::ng-deep at https://angular.io/guide/component-styles#deprecated-deep--and-ng-deep */
-:host ::ng-deep line {
-    stroke: green;
-    stroke-width: 10px;
-}
-
-:host ::ng-deep line.background-line {
-    stroke: lightgray;
-}
